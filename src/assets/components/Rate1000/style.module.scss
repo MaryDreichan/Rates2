@@ -1,0 +1,41 @@
+.rateContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .unlimited {
+    background-color: rgb(64, 64, 133);
+    color: white;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0px solid white;
+  }
+  
+  .price {
+    background-color: rgb(15, 18, 15);
+    color: white;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+  }
+  
+  .speed {
+    background-color: rgb(148, 132, 132); 
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .traffic {
+    background-color: rgb(223, 217, 205); 
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
